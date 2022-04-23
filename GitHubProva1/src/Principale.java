@@ -1,8 +1,8 @@
 /**
  * 
- * @author Parisi
+ * @author Parisi Alessio
  * 
- * @version 2.0
+ * @version 1.000
  *
  */
 public class Principale {
