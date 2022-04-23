@@ -2,13 +2,13 @@
  * 
  * @author Parisi Alessio
  * modificato online
- * @version 4.00
+ * @version 5.00
  *
  */
 public class Principale {
 
 	public static void main(String[] args) {
-		System.out.println("prova GitHub 4");
+		System.out.println("prova GitHub 5");
 
 	}
 
